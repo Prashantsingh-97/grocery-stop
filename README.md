@@ -1,7 +1,8 @@
 # Grocers Stop
 
-Get started by running `npm i` and then `npm start`
-Code along project from react-tutorial.app by JAD JOUBRAN
+Get started by running `npm i` and then `npm start`.
+
+Code along project from react-tutorial.app by JAD JOUBRAN with some added CSS and react functionalities.
 
 ---
 
