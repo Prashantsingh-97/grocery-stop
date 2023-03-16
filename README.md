@@ -4,6 +4,16 @@ Get started by running `npm i` and then `npm start`.
 
 Code along project from react-tutorial.app by JAD JOUBRAN with some added CSS and react functionalities.
 
+After visitng website through github pages please click on Home or website logo to begin.
+
+---
+
+# About Project
+
+This project is made using React18 and routes are managed by react-router-dom.
+
+For products it uses a custom fetch hook to fetch all the products from API provided by JAD.
+
 ---
 
 # Getting Started with Create React App
