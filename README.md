@@ -2,7 +2,7 @@
 
 Get started by running `npm i` and then `npm start`.
 
-Code along project from react-tutorial.app by JAD JOUBRAN with some added CSS and react functionalities.
+Code along project from react-tutorial.app by [JAD JOUBRAN](https://react-tutorial.app/) with some added CSS and react functionalities.
 
 After visitng website through github pages please click on Home or website logo to begin.
 
